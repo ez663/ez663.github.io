@@ -1,6 +1,8 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "title":"小马韦恩的咖啡厅",
+    "subTitle":"远思天下 有所作为",
+    "avatarUrl":"https://avatars.githubusercontent.com/u/294703368",
+    "GMEEK_VERSION":"last",
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
+    "urlMode":"issue"
 }
